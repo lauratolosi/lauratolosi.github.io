@@ -101,15 +101,15 @@ author:
   email            :
   links:
     
-    - label: "School Email"
-       icon: "fas fa-fw fa-envelope-square"
-       url:  "mailto: alubonj1@jh.edu"
+#    - label: "School Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url:  "mailto: alubonj1@jh.edu"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url:  "mailto: laura.tolosi@gmail.com"
-     - label: "LinkedIn"
-       icon: "fa fa-linkedin"
-       url: "https://www.linkedin.com/in/laura-tolosi-halacheva/"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin"
+      url: "https://www.linkedin.com/in/laura-tolosi-halacheva/"
 #     - label: "TopTal"
 #       icon: "ai ai-google-scholar"
 #       url: "https://scholar.google.de/citations?hl=en&user=HgCDGyQAAAAJ&view_op=list_works&sortby=pubdate"
