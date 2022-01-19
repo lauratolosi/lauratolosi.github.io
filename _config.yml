@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Laura Tolosi"
+title                    : "Laura Toloși"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Laura Tolosi"
+name                     : "Laura Toloși"
 description              : #"An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Laura Tolosi"
+  name             : "Laura Toloși, PhD"
   avatar           : "/assets/images/laura.jfif"
-  bio              : "Master of Science in Engineering in Data Science"
+  bio              : "Data Science Lead at Teva Pharmaceuticals"
   location         : #Sofia, Bulgaria"
   email            :
   links:
@@ -108,7 +108,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url:  "mailto: laura.tolosi@gmail.com"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/laura-tolosi-halacheva/"
 #     - label: "TopTal"
 #       icon: "ai ai-google-scholar"
