@@ -101,9 +101,9 @@ author:
   email            :
   links:
     
-    # - label: "School Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url:  "mailto: alubonj1@jh.edu"
+    - label: "School Email"
+       icon: "fas fa-fw fa-envelope-square"
+       url:  "mailto: alubonj1@jh.edu"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url:  "mailto: laura.tolosi@gmail.com"
