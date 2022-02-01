@@ -2,10 +2,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+    # url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+    # url: /projects/
 
